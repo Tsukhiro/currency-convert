@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🤝 Autor & Colaboradores
 
 <a href="https://www.linkedin.com/in/wagner-vitor-novais">
- <img style="border-radius: 50%;" src="https://tsukhiro.github.io/My-Portfolio/assets/FOTO%203X4.jpeg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89936463?s=400&u=e299a61a15d52f1558fb44bd041f81fcbaa06b41&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Wagner Vitor Novais</b></sub></a> <a href="https://github.com/Tsukhiro" title="Wagner">🚀</a>
 

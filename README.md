@@ -1,8 +1,8 @@
-<h1 align="center">Convert Money</h1>
+<h1 align="center">Convert Money 💲</h1>
 
 <br>
 
-<p align="center">Projeto elaborado através do curso <a href="https://rodolfomori.com.br/devclub/">DevClub</a>, trata-se de um conversor de moeda (valor fixo), onde é feito a conversão de REAIS para Dolar ou EURO.</p>
+<p align="center">Projeto elaborado através do curso <a href="https://rodolfomori.com.br/devclub/">DevClub</a>, trata-se de um conversor de moeda (valor fixo), onde é feito a conversão de Reais R$ para Dolar $ ou EURO €.</p>
 <h4 align="center"> 
 	🚧 Status: Projeto Finalizado  🚧
 </h4>

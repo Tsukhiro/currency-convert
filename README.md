@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🤝 Autor & Colaboradores
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/wagner-vitor-novais">
  <img style="border-radius: 50%;" src="https://tsukhiro.github.io/My-Portfolio/assets/FOTO%203X4.jpeg" width="100px;" alt=""/>
  <br />
  <sub><b>Wagner Vitor Novais</b></sub></a> <a href="https://github.com/Tsukhiro" title="Wagner">🚀</a>

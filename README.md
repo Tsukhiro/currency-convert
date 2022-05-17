@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <br>
 
-## 🎨 Previw do Layout
+## 🎨 Preview do Layout
 
 <br>
 <br>

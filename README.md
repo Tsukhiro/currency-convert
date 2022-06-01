@@ -1,8 +1,8 @@
-<h1 align="center">Convert Money 💲</h1>
+<h1 align="center">Currency convert 💲</h1>
 
 <br>
 
-<p align="center">Projeto elaborado através do curso <a href="https://rodolfomori.com.br/devclub/">DevClub</a>, trata-se de um conversor de moeda (valor fixo), onde é feito a conversão de Reais R$ para Dolar $ ou EURO €.</p>
+<p align="center">O projeto elaborado trata-se de um conversor de moeda com o consumo de API, onde é feito a conversão de Reais para Dolar $ ou EURO €.</p>
 <h4 align="center"> 
 	🚧 Status: Projeto Finalizado  🚧
 </h4>
@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <br>
 
->Link: https://convert-money-wvn.netlify.app/
+>Link: https://currency-convert-wvn.netlify.app/
 
 <br>
 

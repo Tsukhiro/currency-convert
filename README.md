@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">O projeto elaborado trata-se de um conversor de moeda com o consumo de API, onde é feito a conversão de Reais para Dolar $ ou EURO €.</p>
+<p align="center">O projeto elaborado trata-se de um conversor de moeda com o consumo da API de Cotações de Moedas (<a href="https://docs.awesomeapi.com.br/api-de-moedas">AwesomeAPI<a/>), onde é feito a conversão de Reais para Dolar $ ou EURO € com base no maior valor do dia.</p>
 <h4 align="center"> 
 	🚧 Status: Projeto Finalizado  🚧
 </h4>
